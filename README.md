@@ -40,9 +40,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/tejesh_grandhi/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
-</a>
+
 
 <a href="mailto:saitejeshg2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
